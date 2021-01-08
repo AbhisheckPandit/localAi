@@ -1,0 +1,3 @@
+module LocalAI {
+	requires gson;
+}
